@@ -282,7 +282,7 @@ header .container .toggle-menu {
 /* Start Landing */
 .landing {
   height: 100vb;
-  background-image: url(/images/Main/landing.jpg);
+  background-image: url(../images/Main/landing.jpg);
   background-repeat: no-repeat;
   position: relative;
   background-size: cover;
@@ -399,7 +399,7 @@ header .container .toggle-menu {
 /* End Services */
 /* Start Design */
 .design {
-  background-image: url(/images/Main/design-features.jpg);
+  background-image: url(../images/Main/design-features.jpg);
   background-repeat: no-repeat;
   background-size: cover;
   height: 600px;
@@ -639,7 +639,7 @@ header .container .toggle-menu {
 /* End About */
 /* Start Stats  */
 .stats {
-  background-image: url(/images/Main/stats.png);
+  background-image: url(../images/Main/stats.png);
   background-repeat: no-repeat;
   background-size: cover;
   position: relative;
@@ -947,7 +947,7 @@ header .container .toggle-menu {
 
 /* Start Quote  */
 .quote {
-  background-image: url(/images/Main/quote.jpg);
+  background-image: url(../images/Main/quote.jpg);
   background-size: cover;
   position: relative;
   padding-top: 60px;
@@ -1131,7 +1131,7 @@ header .container .toggle-menu {
 /* End Pricing  */
 /* Start Email Section  */
 .subscribe {
-  background-image: url(/images/Sub/subscribe.jpg);
+  background-image: url(../images/Sub/subscribe.jpg);
   background-size: cover;
   padding-top: var(--main-padding);
   padding-bottom: var(--main-padding);
